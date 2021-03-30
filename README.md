@@ -1,4 +1,4 @@
-# Project1 - WorldHappinessReport
+# WorldHappinessReport
 This is first group project, with group members:
 1) Tejal Kotkar
 2) Savita Hirilall
